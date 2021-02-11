@@ -2,13 +2,15 @@
 
 ### Setup
 
-Add this package by using the Add package from git URL... + menu option
+Add this package by using the Add package from git URL... + menu option from the Unity package manager.
 
 ```json
-"https://github.com/TomEganDev/DOTS.HybridPrefabs.git"
+https://github.com/TomEganDev/DOTS.HybridPrefabs.git
 ```
 
 ### How To Use
+
+See included samples or...
 
 1. Create GameObject prefab with HybridPrefab component
 2. Create Entity prefab with LinkHybridPrefab authoring component that references the hybrid prefab
@@ -17,4 +19,4 @@ Add this package by using the Add package from git URL... + menu option
 
 ### Notes
 
-Examples of usage will be uploaded soon
+Better documentation coming soon

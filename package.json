@@ -10,5 +10,22 @@
   "author": {
     "name": "TomEgan",
     "email": "tomegandev@gmail.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "A small example showing basic hybrid prefab usage with a PooledBehaviour",
+      "path": "Samples~/BasicUsage"
+    },
+    {
+      "displayName": "Transform Tracking",
+      "description": "An example showing how hybrid prefabs can read transform data from entities and vice-versa",
+      "path": "Samples~/TransformTracking"
+    },
+    {
+      "displayName": "Using Component Objects",
+      "description": "An example showing how to use the HybridPrefab Monobehaviour to add component objects to an entity and then use them in a system",
+      "path": "Samples~/UsingComponentObjects"
+    }
+  ]
 }
