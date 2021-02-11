@@ -1,0 +1,14 @@
+{
+  "name": "com.tomegan.dots.hybridprefabs",
+  "version": "0.1.0",
+  "displayName": "DOTS Hybrid Prefabs",
+  "unity": "2020.1",
+  "description": "A package for managing gameobject prefabs via entities.",
+  "dependencies": {
+    "com.unity.entities": "0.17.0-preview.41"
+  },
+  "author": {
+    "name": "TomEgan",
+    "email": "tomegandev@gmail.com"
+  }
+}
