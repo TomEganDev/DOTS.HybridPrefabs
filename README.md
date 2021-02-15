@@ -1,6 +1,6 @@
 # Hybrid Prefabs
 
-### Setup
+## Setup
 
 Add this package by using the 'Add package from git URL...' + menu option from the Unity package manager.
 
@@ -8,7 +8,7 @@ Add this package by using the 'Add package from git URL...' + menu option from t
 https://github.com/TomEganDev/DOTS.HybridPrefabs.git
 ```
 
-### How To Use
+## How To Use
 
 See included samples or...
 
@@ -17,10 +17,9 @@ See included samples or...
 3. Add a HybridPrefabCollection to your scene that contains all hybrid prefabs
 4. Entities with LinkHybridPrefab will now automatically pair themselves to a hybrid prefab instance when instantiated, the hybrid prefab will also be returned to the pool when the entity is destroyed
 
+
 ### Hybrid Prefabs
-
 ![](Documentation~/images/HybridPrefabs.png)
-
 #### PrePoolSize
 How many instances of this hybrid prefab get pre-allocated when calling HybridPrefabPool.RegisterPrefab() (This is called by the HybridPrefabCollection component).
 #### Id
